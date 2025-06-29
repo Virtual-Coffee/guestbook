@@ -4107,6 +4107,15 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "algacyr-melo",
+      "name": "Algacyr Melo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59575878?v=4",
+      "profile": "https://github.com/algacyr-melo",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
