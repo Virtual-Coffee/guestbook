@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-290-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-291-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -419,6 +419,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Akintademuyiwa24"><img src="https://avatars.githubusercontent.com/u/105233958?v=4?s=100" width="100px;" alt="AKINTADE OLUMUYIWA"/><br /><sub><b>AKINTADE OLUMUYIWA</b></sub></a><br /><a href="#a11y-Akintademuyiwa24" title="Accessibility">️️️️♿️</a> <a href="#question-Akintademuyiwa24" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AAkintademuyiwa24" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Akintademuyiwa24" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Akintademuyiwa24" title="Documentation">📖</a> <a href="#research-Akintademuyiwa24" title="Research">🔬</a> <a href="#tutorial-Akintademuyiwa24" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/acskii"><img src="https://avatars.githubusercontent.com/u/64688416?v=4?s=100" width="100px;" alt="Andrew Sameh"/><br /><sub><b>Andrew Sameh</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=acskii" title="Documentation">📖</a> <a href="#maintenance-acskii" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/algacyr-melo"><img src="https://avatars.githubusercontent.com/u/59575878?v=4?s=100" width="100px;" alt="Algacyr Melo"/><br /><sub><b>Algacyr Melo</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=algacyr-melo" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AyushShuklaIIIT"><img src="https://avatars.githubusercontent.com/u/98597780?v=4?s=100" width="100px;" alt="Ayush Shukla"/><br /><sub><b>Ayush Shukla</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=AyushShuklaIIIT" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
