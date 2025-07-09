@@ -4135,6 +4135,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Hardik-S-003",
+      "name": "Hardik S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121681215?v=4",
+      "profile": "https://github.com/Hardik-S-003",
+      "contributions": [
+        "bug",
+        "code",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

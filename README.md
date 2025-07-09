@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-291-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-292-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -420,6 +420,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/acskii"><img src="https://avatars.githubusercontent.com/u/64688416?v=4?s=100" width="100px;" alt="Andrew Sameh"/><br /><sub><b>Andrew Sameh</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=acskii" title="Documentation">📖</a> <a href="#maintenance-acskii" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/algacyr-melo"><img src="https://avatars.githubusercontent.com/u/59575878?v=4?s=100" width="100px;" alt="Algacyr Melo"/><br /><sub><b>Algacyr Melo</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=algacyr-melo" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AyushShuklaIIIT"><img src="https://avatars.githubusercontent.com/u/98597780?v=4?s=100" width="100px;" alt="Ayush Shukla"/><br /><sub><b>Ayush Shukla</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=AyushShuklaIIIT" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Hardik-S-003"><img src="https://avatars.githubusercontent.com/u/121681215?v=4?s=100" width="100px;" alt="Hardik S"/><br /><sub><b>Hardik S</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AHardik-S-003" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Hardik-S-003" title="Code">💻</a> <a href="#data-Hardik-S-003" title="Data">🔣</a></td>
     </tr>
   </tbody>
   <tfoot>
