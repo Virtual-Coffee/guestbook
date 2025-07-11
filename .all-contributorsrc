@@ -4158,6 +4158,40 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "Esaius2058",
+      "name": "Isaiah Juma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160234100?v=4",
+      "profile": "https://github.com/Esaius2058",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "review",
+        "security",
+        "talk",
+        "tool",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
