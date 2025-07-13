@@ -4146,6 +4146,16 @@
         "code",
         "data"
       ]
+    },
+    {
+      "login": "Ghaith-Rain",
+      "name": "Ghaith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123889009?v=4",
+      "profile": "https://github.com/Ghaith-Rain",
+      "contributions": [
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
