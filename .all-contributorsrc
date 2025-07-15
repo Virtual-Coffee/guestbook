@@ -4055,6 +4055,143 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "mathncode-sid",
+      "name": "Sidney Baraka Muriuki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168301526?v=4",
+      "profile": "https://math-n-code-sid.netlify.app/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "data",
+        "design",
+        "doc"
+      ]
+    },
+    {
+      "login": "darlopvil",
+      "name": "darlopvil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60988792?v=4",
+      "profile": "https://github.com/darlopvil",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "research",
+        "security",
+        "test",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Akintademuyiwa24",
+      "name": "AKINTADE OLUMUYIWA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105233958?v=4",
+      "profile": "https://github.com/Akintademuyiwa24",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "research",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "acskii",
+      "name": "Andrew Sameh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64688416?v=4",
+      "profile": "https://github.com/acskii",
+      "contributions": [
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "algacyr-melo",
+      "name": "Algacyr Melo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59575878?v=4",
+      "profile": "https://github.com/algacyr-melo",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "AyushShuklaIIIT",
+      "name": "Ayush Shukla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98597780?v=4",
+      "profile": "https://github.com/AyushShuklaIIIT",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Hardik-S-003",
+      "name": "Hardik S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121681215?v=4",
+      "profile": "https://github.com/Hardik-S-003",
+      "contributions": [
+        "bug",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "login": "Ghaith-Rain",
+      "name": "Ghaith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123889009?v=4",
+      "profile": "https://github.com/Ghaith-Rain",
+      "contributions": [
+        "design",
+        "doc",
+        "code",
+        "content"
+      ]
+    },
+    {
+      "login": "Esaius2058",
+      "name": "Isaiah Juma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160234100?v=4",
+      "profile": "https://github.com/Esaius2058",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "review",
+        "security",
+        "talk",
+        "tool",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
