@@ -4192,6 +4192,16 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "pranavjrat",
+      "name": "Pranavjeet Singh Rathore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149122738?v=4",
+      "profile": "https://github.com/pranavjrat",
+      "contributions": [
+        "data",
+        "promotion"
+      ]
     }
   ],
   "contributorsPerLine": 7,
