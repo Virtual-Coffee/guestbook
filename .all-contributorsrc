@@ -4232,6 +4232,17 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "michaelcortese",
+      "name": "Michael Cortese",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90201909?v=4",
+      "profile": "https://www.crtse.dev/",
+      "contributions": [
+        "bug",
+        "code",
+        "financial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
