@@ -4232,6 +4232,31 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "Aswin-22",
+      "name": "Aswin. M",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95373026?v=4",
+      "profile": "https://github.com/Aswin-22",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "business",
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "maintenance",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
