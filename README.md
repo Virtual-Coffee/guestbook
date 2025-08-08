@@ -18,9 +18,9 @@ Check out the [pizza-verse](https://github.com/Virtual-Coffee/pizza-verse) repos
 
 ## 🤝 Contributing
 
-All contributors are required to abide by our [Code of Conduct](https://virtualcoffee.io/code-of-conduct). Please follow the [Contributing Guidelines](CONTRIBUTING.md) for contributing.
+All contributors are required to abide by our [Code of Conduct](https://github.com/OpenSource-Communities/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the [Contributing Guidelines](CONTRIBUTING.md) for contributing.
 
-**Course improvement**: If you are interested in improving the Intro to Open Source course, please create an issue at [intro repository](https://github.com/Virtual-Coffee/intro) and refer to the [Contributing Guidelines](https://github.com/Virtual-Coffee/intro/blob/main/contributing/CONTRIBUTING.md).
+**Course improvement**: If you are interested in improving the Intro to Open Source course, please create an issue at [intro repository](https://github.com/OpenSource-Communities/intro) and refer to the [Contributing Guidelines](https://github.com/OpenSource-Communities/intro/blob/main/contributing/CONTRIBUTING.md).
 
 ## All Contributors
 
