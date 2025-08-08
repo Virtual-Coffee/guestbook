@@ -4369,6 +4369,16 @@
         "code",
         "financial"
       ]
+    },
+    {
+      "login": "observer04",
+      "name": "Omm P",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130742302?v=4",
+      "profile": "https://github.com/observer04",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
