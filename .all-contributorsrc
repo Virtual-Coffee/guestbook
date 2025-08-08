@@ -4279,6 +4279,18 @@
         "ideas",
         "research"
       ]
+    },
+    {
+      "login": "ciprij",
+      "name": "Jake Cipri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104098673?v=4",
+      "profile": "https://github.com/ciprij",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
