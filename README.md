@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-302-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-303-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -435,6 +435,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TheOphige"><img src="https://avatars.githubusercontent.com/u/43274618?v=4?s=100" width="100px;" alt="Theophilus Ige"/><br /><sub><b>Theophilus Ige</b></sub></a><br /><a href="#a11y-TheOphige" title="Accessibility">️️️️♿️</a> <a href="#question-TheOphige" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ATheOphige" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ufidtech"><img src="https://avatars.githubusercontent.com/u/180030586?v=4?s=100" width="100px;" alt="Danjuma Ibrahim"/><br /><sub><b>Danjuma Ibrahim</b></sub></a><br /><a href="#a11y-Ufidtech" title="Accessibility">️️️️♿️</a> <a href="#question-Ufidtech" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AUfidtech" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
