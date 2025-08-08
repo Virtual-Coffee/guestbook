@@ -4348,6 +4348,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "cyril-giri",
+      "name": "Cyril Stafford Giri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127924145?v=4",
+      "profile": "https://github.com/cyril-giri",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
